@@ -12,7 +12,12 @@ O **Studio de Visão do Azure** é uma ferramenta poderosa e fácil de usar, pro
 ### 2. Configure seu recurso
 - Escolha o recurso que você provisionou clicando na engrenagem.
 
+![image](https://github.com/user-attachments/assets/ddd93d43-e132-4038-bebd-4cecd86c9e5a)
+
 ### 3. Escolha uma funcionalidade
+
+![image](https://github.com/user-attachments/assets/c2763f2b-bf38-4759-b17f-5a8d552ec8ae)
+
 O Studio oferece diversas opções para explorar as capacidades de visão computacional, como:
 
 - **Análise de Imagem**:
