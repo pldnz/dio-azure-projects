@@ -1,0 +1,18 @@
+Atributos detectados:
+    a person sitting on a bench holding a newspaper
+
+JSON
+{
+    "apim-request-id": "2e82f13e-cbab-426c-b996-797d347c7832",
+    "content-length": "176",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+        "text": "a person sitting on a bench holding a newspaper",
+        "confidence": 0.8839134573936462
+    },
+    "metadata": {
+        "width": 6016,
+        "height": 4016
+    }
+}

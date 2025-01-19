@@ -1,0 +1,18 @@
+Atributos detectados:
+    a blurry image of a city street at night
+
+JSON
+{
+  "apim-request-id": "b7cbd7b3-8114-4250-addf-aefe79385a9b",
+  "content-length": "169",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a blurry image of a city street at night",
+    "confidence": 0.7129583358764648
+  },
+  "metadata": {
+    "width": 6000,
+    "height": 4000
+  }
+}

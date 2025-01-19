@@ -1,0 +1,18 @@
+Atributos detectados:
+    a black electronic device on a table next to a group of books
+
+JSON
+{
+    "apim-request-id": "a40d5e73-d51b-4337-892e-3c57b8fa1f90",
+    "content-length": "189",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+        "text": "a black electronic device on a table next to a group of books",
+        "confidence": 0.7061017155647278
+    },
+    "metadata": {
+        "width": 1280,
+        "height": 960
+    }
+}
