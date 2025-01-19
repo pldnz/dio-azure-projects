@@ -1,0 +1,96 @@
+{
+    "documents": [
+        {
+            "id": "id__655",
+            "sentiment": "positive",
+            "confidenceScores": {
+                "positive": 0.95,
+                "neutral": 0.05,
+                "negative": 0.01
+            },
+            "sentences": [
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.21,
+                        "neutral": 0.78,
+                        "negative": 0.02
+                    },
+                    "offset": 0,
+                    "length": 51,
+                    "text": "The year's at the spring,  And day's at the morn;  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.99,
+                        "negative": 0
+                    },
+                    "offset": 51,
+                    "length": 21,
+                    "text": "Morning's at seven;  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.95,
+                        "negative": 0.03
+                    },
+                    "offset": 72,
+                    "length": 30,
+                    "text": "The hill-side's dew-pearl'd;  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.94,
+                        "negative": 0.05
+                    },
+                    "offset": 102,
+                    "length": 25,
+                    "text": "The lark's on the wing;  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.92,
+                        "negative": 0.07
+                    },
+                    "offset": 127,
+                    "length": 27,
+                    "text": "The snail's on the thorn;  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.95,
+                        "neutral": 0.05,
+                        "negative": 0.01
+                    },
+                    "offset": 154,
+                    "length": 48,
+                    "text": "God's in His heaven, All's right with the world!",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2024-03-01"
+}
