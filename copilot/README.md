@@ -6,6 +6,11 @@ O **Copilot da Microsoft** é uma ferramenta inteligente que utiliza IA generati
 ## Como funciona a IA Generativa?  
 A IA generativa, como a do Copilot, é baseada em modelos de aprendizado de máquina que analisam grandes volumes de dados. Quando um comando ou pergunta é enviado, o modelo interpreta o texto e gera uma resposta inteligente, baseada em padrões aprendidos durante o treinamento.  
 
+## Copilot em ação
+
+![image](https://github.com/user-attachments/assets/8e2f93ef-3b48-49bc-aeaf-ed57e71ae927)
+
+
 ---
 
 # Exemplos de inputs e outputs de imagens geradas pelo Copilot  
